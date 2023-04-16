@@ -1,6 +1,6 @@
 # my-first-vue-project
 
-This template should help get you started developing with Vue 3 in Vite.
+
 
 ## Recommended IDE Setup
 
@@ -33,3 +33,13 @@ npm run build
 ```sh
 npm run lint
 ```
+
+- [x] Add Task
+- [x] Delete Task
+- [ ] Edit Task
+- [x] Complete Task
+- [ ] Show Task count
+- [ ] Clear All Tasks
+- [ ] Clear completed Tasks
+- [ ] Hide completed Tasks
+- [ ] Persist through local storage
