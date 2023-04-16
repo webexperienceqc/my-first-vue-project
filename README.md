@@ -34,12 +34,14 @@ npm run build
 npm run lint
 ```
 
+## Feature List
+
 - [x] Add Task
 - [x] Delete Task
-- [ ] Edit Task
+- [x] Edit Task
 - [x] Complete Task
-- [ ] Show Task count
-- [ ] Clear All Tasks
-- [ ] Clear completed Tasks
-- [ ] Hide completed Tasks
-- [ ] Persist through local storage
+- [x] Show Task count
+- [x] Clear All Tasks
+- [x] Clear completed Tasks
+- [x] Hide completed Tasks
+- [x] Persist through local storage
